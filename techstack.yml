@@ -1,7 +1,8 @@
 repo_name: ohimors/react
 report_id: 52e2de15ed81107544e808d9712f4944
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-13T00:24:57+00:00'
+timestamp: '2024-01-05T08:47:38+00:00'
 requested_by: chenglou
 provider: github
 branch: master
@@ -16,6 +17,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/ohimors/react
   detection_source: Repo Metadata
 - name: Ruby
   description: A dynamic, interpreted, open source programming language with a focus
@@ -26,6 +28,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/989/ruby.png
+  detection_source_url: https://github.com/ohimors/react
   detection_source: Repo Metadata
 - name: ".NET"
   description: A free, cross-platform, open source developer platform for building
@@ -37,6 +40,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/1014/IoPy1dce_400x400.png
+  detection_source_url: https://github.com/ohimors/react/blob/master/package.json
   detection_source: package.json
   last_updated_by: Paul O’Shannessy
   last_updated_on: 2013-05-29 19:46:11.000000000 Z
@@ -50,7 +54,7 @@ tools:
   category: Libraries
   sub_category: Javascript UI Libraries
   image_url: https://img.stackshare.io/service/1020/OYIaJ1KK.png
-  detection_source_url: examples/todomvc-director/bower.json
+  detection_source_url: https://github.com/ohimors/react/blob/master/examples/todomvc-director/bower.json
   detection_source: examples/todomvc-director/bower.json
   last_updated_by: Cheng Lou
   last_updated_on: 2013-09-01 01:44:40.000000000 Z
@@ -64,7 +68,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/849/9esmqty2.png
-  detection_source_url: package.json
+  detection_source_url: https://github.com/ohimors/react/blob/master/package.json
   detection_source: package.json
   last_updated_by: Paul O’Shannessy
   last_updated_on: 2013-12-05 05:07:16.000000000 Z
@@ -76,6 +80,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/ohimors/react
   detection_source: Repo Metadata
 - name: NuGet
   description: The package manager for .NET
@@ -85,6 +90,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/service/2637/6I3oEOP4_400x400.jpg
+  detection_source_url: https://github.com/ohimors/react/blob/master/package.json
   detection_source: package.json
   last_updated_by: Paul O’Shannessy
   last_updated_on: 2013-05-29 19:46:11.000000000 Z
@@ -98,7 +104,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Headless Browsers
   image_url: https://img.stackshare.io/service/1832/phantomjs.png
-  detection_source_url: package.json
+  detection_source_url: https://github.com/ohimors/react/blob/master/package.json
   detection_source: package.json
   last_updated_by: Thomas Aylott
   last_updated_on: 2013-11-06 22:00:25.000000000 Z
@@ -110,6 +116,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/service/12795/5jL6-BA5_400x400.jpeg
+  detection_source_url: https://github.com/ohimors/react/blob/master/docs/Gemfile
   detection_source: docs/Gemfile
   last_updated_by: Paul O’Shannessy
   last_updated_on: 2013-05-29 19:46:11.000000000 Z
@@ -122,6 +129,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Continuous Integration
   image_url: https://img.stackshare.io/service/460/Lu6cGu0z_400x400.png
+  detection_source_url: https://github.com/ohimors/react/blob/master/.travis.yml
   detection_source: ".travis.yml"
   last_updated_by: Paul O’Shannessy
   last_updated_on: 2013-05-29 22:34:52.000000000 Z
@@ -133,6 +141,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/ohimors/react/blob/master/package.json
   detection_source: package.json
   last_updated_by: Paul O’Shannessy
   last_updated_on: 2013-05-29 19:46:11.000000000 Z
@@ -146,7 +155,7 @@ tools:
   category: Application Utilities
   sub_category: Static Site Generators
   image_url: https://img.stackshare.io/service/1114/ad968c1615d956e800fa36494314f48c.jpeg
-  detection_source_url: docs/Gemfile.lock
+  detection_source_url: https://github.com/ohimors/react/blob/master/docs/Gemfile.lock
   detection_source: docs/Gemfile
   last_updated_by: Paul O’Shannessy
   last_updated_on: 2013-11-19 23:18:15.000000000 Z
@@ -159,6 +168,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source_url: https://github.com/ohimors/react
   detection_source: Repo Metadata
 - name: envify
   description: Selectively replace Node-style environment variables with plain strings
@@ -170,7 +180,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16578/default_ebd83b4f0415be108d977ea72558b13fd7c5283d.png
-  detection_source_url: package.json
+  detection_source_url: https://github.com/ohimors/react/blob/master/package.json
   detection_source: package.json
   last_updated_by: petehunt
   last_updated_on: 2013-12-02 09:21:28.000000000 Z
@@ -184,7 +194,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16528/default_d522554c6a41cb28d922d6d3ad32ad4afa0e3bb5.png
-  detection_source_url: package.json
+  detection_source_url: https://github.com/ohimors/react/blob/master/package.json
   detection_source: package.json
   last_updated_by: Thomas Aylott
   last_updated_on: 2013-10-31 22:58:25.000000000 Z
@@ -198,7 +208,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/18713/default_885670ee795ce72a41f6257ee17f562bae80cbea.png
-  detection_source_url: package.json
+  detection_source_url: https://github.com/ohimors/react/blob/master/package.json
   detection_source: package.json
   last_updated_by: Andreas Svensson
   last_updated_on: 2013-11-08 21:45:27.000000000 Z
@@ -212,7 +222,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15835/default_0b10af8ca19c215f781dc07442e75bdc831089d0.png
-  detection_source_url: package.json
+  detection_source_url: https://github.com/ohimors/react/blob/master/package.json
   detection_source: package.json
   last_updated_by: Paul O’Shannessy
   last_updated_on: 2013-12-05 05:07:16.000000000 Z
@@ -245,7 +255,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16021/default_924b66c04aa848a4028c1a5753a23dae0f835f86.png
-  detection_source_url: package.json
+  detection_source_url: https://github.com/ohimors/react/blob/master/package.json
   detection_source: package.json
   last_updated_by: Paul O’Shannessy
   last_updated_on: 2013-12-05 05:07:16.000000000 Z
@@ -259,7 +269,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/18270/default_c23c531e3bd6d7c846d8001ad17df3f453a2b154.png
-  detection_source_url: package.json
+  detection_source_url: https://github.com/ohimors/react/blob/master/package.json
   detection_source: package.json
   last_updated_by: Paul O’Shannessy
   last_updated_on: 2013-12-05 05:07:16.000000000 Z
@@ -273,7 +283,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15939/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
-  detection_source_url: package.json
+  detection_source_url: https://github.com/ohimors/react/blob/master/package.json
   detection_source: package.json
   last_updated_by: Paul O’Shannessy
   last_updated_on: 2013-12-05 05:07:16.000000000 Z
@@ -287,7 +297,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16797/default_661bbd7f9556b6c5c0b8be11cd13e1813fc5c977.png
-  detection_source_url: package.json
+  detection_source_url: https://github.com/ohimors/react/blob/master/package.json
   detection_source: package.json
   last_updated_by: Paul O’Shannessy
   last_updated_on: 2013-12-05 05:07:16.000000000 Z
@@ -301,7 +311,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16236/default_380ae3d73e22c7ca1f42b96479bcd0095dabc0d3.png
-  detection_source_url: package.json
+  detection_source_url: https://github.com/ohimors/react/blob/master/package.json
   detection_source: package.json
   last_updated_by: Paul O’Shannessy
   last_updated_on: 2013-12-05 05:07:16.000000000 Z
@@ -315,7 +325,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16056/default_c7b204838197013798409fa2b4dafce450edc7fb.png
-  detection_source_url: package.json
+  detection_source_url: https://github.com/ohimors/react/blob/master/package.json
   detection_source: package.json
   last_updated_by: Paul O’Shannessy
   last_updated_on: 2013-12-05 05:07:16.000000000 Z
@@ -329,7 +339,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15898/default_59a1b5716eefa3750c20936c3d53ff13a6390ee1.png
-  detection_source_url: package.json
+  detection_source_url: https://github.com/ohimors/react/blob/master/package.json
   detection_source: package.json
   last_updated_by: Paul O’Shannessy
   last_updated_on: 2013-12-05 05:07:16.000000000 Z
@@ -343,7 +353,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16145/default_ac04a744873b460c4ef30a7450ed0c83223640ab.png
-  detection_source_url: package.json
+  detection_source_url: https://github.com/ohimors/react/blob/master/package.json
   detection_source: package.json
   last_updated_by: Paul O’Shannessy
   last_updated_on: 2013-08-27 21:46:06.000000000 Z
@@ -357,7 +367,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17195/default_183829c5079b84333a720d8590a328efc043ba0e.png
-  detection_source_url: package.json
+  detection_source_url: https://github.com/ohimors/react/blob/master/package.json
   detection_source: package.json
   last_updated_by: Ben Newman
   last_updated_on: 2013-12-13 20:28:37.000000000 Z
@@ -371,7 +381,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16251/default_380ae3d73e22c7ca1f42b96479bcd0095dabc0d3.png
-  detection_source_url: package.json
+  detection_source_url: https://github.com/ohimors/react/blob/master/package.json
   detection_source: package.json
   last_updated_by: Paul O’Shannessy
   last_updated_on: 2013-05-29 19:46:11.000000000 Z
@@ -385,7 +395,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15900/default_1d65e37e65b7f80761374f0202776043277d505d.png
-  detection_source_url: package.json
+  detection_source_url: https://github.com/ohimors/react/blob/master/package.json
   detection_source: package.json
   last_updated_by: Paul O’Shannessy
   last_updated_on: 2013-08-27 21:46:06.000000000 Z
@@ -418,7 +428,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17450/default_8c4651c288471a00b2fd6f2055b6de29cb9a049d.png
-  detection_source_url: package.json
+  detection_source_url: https://github.com/ohimors/react/blob/master/package.json
   detection_source: package.json
   last_updated_by: Paul O’Shannessy
   last_updated_on: 2013-05-29 19:46:11.000000000 Z
@@ -432,7 +442,7 @@ tools:
   category: Libraries
   sub_category: RubyGems Packages
   image_url: https://img.stackshare.io/package/18822/default_19184669508c0f71aec9521d5f14d71b77203130.png
-  detection_source_url: docs/Gemfile.lock
+  detection_source_url: https://github.com/ohimors/react/blob/master/docs/Gemfile.lock
   detection_source: docs/Gemfile
   last_updated_by: Paul O’Shannessy
   last_updated_on: 2013-05-29 19:46:11.000000000 Z
@@ -453,7 +463,7 @@ tools:
   category: Libraries
   sub_category: RubyGems Packages
   image_url: https://img.stackshare.io/package/18812/default_f582e4648f4682adb72d2b201218cda7f8e894ac.png
-  detection_source_url: docs/Gemfile.lock
+  detection_source_url: https://github.com/ohimors/react/blob/master/docs/Gemfile.lock
   detection_source: docs/Gemfile
   last_updated_by: Ben Alpert
   last_updated_on: 2013-09-16 05:30:36.000000000 Z
@@ -474,7 +484,7 @@ tools:
   category: Libraries
   sub_category: RubyGems Packages
   image_url: https://img.stackshare.io/package/18902/default_4bb00167954f5d9dd5673b34db3ced31ee000cb4.png
-  detection_source_url: docs/Gemfile.lock
+  detection_source_url: https://github.com/ohimors/react/blob/master/docs/Gemfile.lock
   detection_source: docs/Gemfile
   last_updated_by: Paul O’Shannessy
   last_updated_on: 2013-05-29 19:46:11.000000000 Z
@@ -488,7 +498,7 @@ tools:
   category: Libraries
   sub_category: RubyGems Packages
   image_url: https://img.stackshare.io/package/18853/default_b87d202e13d56f87c63181fa49bc5e099c9abaac.png
-  detection_source_url: docs/Gemfile.lock
+  detection_source_url: https://github.com/ohimors/react/blob/master/docs/Gemfile.lock
   detection_source: docs/Gemfile
   last_updated_by: Paul O’Shannessy
   last_updated_on: 2013-05-29 19:46:11.000000000 Z
@@ -509,7 +519,7 @@ tools:
   category: Libraries
   sub_category: RubyGems Packages
   image_url: https://img.stackshare.io/package/19061/default_5739fe334ed718fddcfdaaefc58a5ee795a7f605.png
-  detection_source_url: docs/Gemfile.lock
+  detection_source_url: https://github.com/ohimors/react/blob/master/docs/Gemfile.lock
   detection_source: docs/Gemfile
   last_updated_by: Paul O’Shannessy
   last_updated_on: 2013-09-19 00:16:29.000000000 Z
@@ -523,7 +533,7 @@ tools:
   category: Libraries
   sub_category: RubyGems Packages
   image_url: https://img.stackshare.io/package/18882/default_b1cb499f3e62fe773109c989f76e3365fbe49857.png
-  detection_source_url: docs/Gemfile.lock
+  detection_source_url: https://github.com/ohimors/react/blob/master/docs/Gemfile.lock
   detection_source: docs/Gemfile
   last_updated_by: Paul O’Shannessy
   last_updated_on: 2013-05-29 19:46:11.000000000 Z
